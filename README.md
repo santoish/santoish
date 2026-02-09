@@ -1,21 +1,87 @@
-# Hi there 👋 It's me  Santhosh G
+# Hi, I'm Santhosh G 👋  
+### Aspiring Java Backend Developer | Spring Boot | REST APIs
 
-##  About Me
+I’m a passionate **Java Backend Developer** focused on building clean, scalable, and maintainable server-side applications.  
+I enjoy designing APIs, working with databases, and understanding how real-world systems are built behind the scenes.
 
-Hey, I'm Santhosh — a **BCA student**, curious coder, and passionate creator.  
-When I’m not writing code, I’m probably exploring AI tools, studying the mind, or digging into strange historical facts.
+Currently sharpening my skills in **Spring Boot**, **RESTful API design**, and **backend best practices** while building hands-on projects.
 
-- 💡 Self-Taught Frontend Dev (HTML, CSS, Tailwind, JS)
-- 📝 Currently Learning **Python Full Stack & Django**
-- 🎯 Goal: Land a Developer role in a **product-based tech company**
+---
 
-- Social Presence
-<br />[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/santhoshg06) <br/> [<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />](https://www.instagram.com/_santoish_)
+## 🔧 Tech Stack
 
-## I Code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+**Backend**
+- Java (Core Java, OOP, Collections, Exception Handling)
+- Spring Boot
+- REST APIs
+- JDBC, JPA, Hibernate
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+**Database**
+- MySQL
+- PostgreSQL (learning)
 
+**Tools & Practices**
+- Git & GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
+- Basic unit testing (JUnit – learning)
+- API documentation (Swagger – learning)
+
+---
+
+## 📌 What I’m Working On
+
+- Building **real-world Spring Boot backend projects**
+- Improving **API design and validation**
+- Practicing **layered architecture** (Controller → Service → Repository)
+- Learning **best practices used in production systems**
+
+---
+
+## 🧠 What I Believe In
+
+- Clean code is better than clever code  
+- Strong fundamentals > frameworks  
+- Consistency beats motivation  
+- Learning by building real projects
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Job Portal Backend**  
+Spring Boot REST API for job posting and applications  
+- CRUD operations  
+- Layered architecture  
+- Database integration  
+- RESTful design  
+
+🔹 **Student Management System**  
+Java backend project focusing on:
+- OOP concepts
+- Exception handling
+- Collections
+- Clean service-based design  
+
+*(More backend projects coming soon 🚀)*
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Security (Authentication & Authorization)
+- Microservices basics
+- Writing better unit tests
+- API documentation standards
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/santoish
+- LinkedIn: 
+
+---
+
+⭐ *I’m actively looking for opportunities as a Java Backend Developer / Backend Intern where I can learn, grow, and contribute to real-world systems.*
