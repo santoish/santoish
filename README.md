@@ -80,7 +80,7 @@ Java backend project focusing on:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/santoish
-- LinkedIn: in/santhoshg06
+- LinkedIn: https://linkedin/santhoshg06
 
 ---
 
